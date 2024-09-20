@@ -1,7 +1,3 @@
-Aqui está o README em português para a API **ContosoPizza**:
-
----
-
 # ContosoPizza API
 
 Esta é uma API de exemplo criada com **ASP.NET Core**, seguindo o tutorial do **Microsoft Learn**. A API permite gerenciar uma pizzaria, incluindo operações de CRUD para pizzas e gerenciamento de pedidos de clientes.
